@@ -9,7 +9,7 @@ int calculatePlaceCost(vector<Place> places) {
     }
 
     return total;
-}
+} 
 
 // รวมค่าอาหาร
 int calculateRestaurantCost(vector<restaurant> foods) {
